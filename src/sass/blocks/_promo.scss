@@ -1,0 +1,44 @@
+.promo {
+    height: 100vh;
+    position: relative;
+    padding-top: 40vh;
+    background: url('../img/main.jpg') center (center / cover) no-repeat;
+    &__overlay {
+        position: absolute;
+        top: -40vh;
+        width: 100vw;
+        height: 140vh;
+        z-index: 10;
+        background-color: rgba(0, 0 , 0, 0.5);
+    }
+    &__wrp {
+        display: block;
+        position: relative;
+        margin: 0 auto;
+        width: 80vw;
+        z-index: 100;
+    }
+    &__title {
+        font-family: 'Durance Flower';
+        font-weight: normal;
+        font-size: 8vw;
+        line-height: 1.4em;
+        text-align: center;
+        color: #fff;
+        margin-bottom: 0;
+    }
+    &__subtitle {
+        font-family: 'Courier New';
+        font-weight: normal;
+        font-size: 5vw;
+        line-height: 1em;
+        text-align: center;
+        color: #fff;
+        margin-bottom: 0;
+    }
+    &__arrow {
+        display: block;
+        margin: 5px auto;
+        width: 35vw;
+    }
+}

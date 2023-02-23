@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Durance Flower';
+    src: url('Durance-Flower.eot');
+    src: url('Durance-Flower.eot?#iefix') format('embedded-opentype'),
+        url('Durance-Flower.woff2') format('woff2'),
+        url('Durance-Flower.woff') format('woff'),
+        url('Durance-Flower.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Courier New';
+    src: url('CourierNewPS-BoldMT.eot');
+    src: url('CourierNewPS-BoldMT.eot?#iefix') format('embedded-opentype'),
+        url('CourierNewPS-BoldMT.woff2') format('woff2'),
+        url('CourierNewPS-BoldMT.woff') format('woff'),
+        url('CourierNewPS-BoldMT.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('MinionPro-Regular.eot');
+    src: url('MinionPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MinionPro-Regular.woff2') format('woff2'),
+        url('MinionPro-Regular.woff') format('woff'),
+        url('MinionPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Courier New';
+    src: url('CourierNewPSMT.eot');
+    src: url('CourierNewPSMT.eot?#iefix') format('embedded-opentype'),
+        url('CourierNewPSMT.woff2') format('woff2'),
+        url('CourierNewPSMT.woff') format('woff'),
+        url('CourierNewPSMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,23 @@
+.footer {
+    min-height: 100px;
+    background-color: #000;
+    padding-bottom: 60px;
+    &__arrow {
+        display: block;
+        margin: 0 auto;
+    }
+    &__contacts {
+        margin: 0 auto;
+        width: 550px;
+        color: #fff;
+        font-size: 20px;
+        font-family: 'Courier New';
+        text-align: center;
+        a {
+            color: #fff;
+            &:hover {
+                font-weight: bold;
+            }
+        }
+    }
+}
